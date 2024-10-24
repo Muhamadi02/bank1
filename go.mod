@@ -1,1 +1,1 @@
-module bank1
+module github.com/Muddinov02/bank1
